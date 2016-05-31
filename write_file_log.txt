@@ -1,0 +1,68 @@
+
+1 27/5/2016 11:1:17 emit click ...
+1 27/5/2016 11:1:21 emit click ...
+1 27/5/2016 11:9:49 start server ...
+1 27/5/2016 11:9:49 D:\vl\extJS\myNodeModules\watchFile.js
+1 27/5/2016 11:13:46 start server ...
+1 27/5/2016 11:13:55 emit click ...
+1 27/5/2016 11:14:14 rename watchFile.js
+1 27/5/2016 11:14:14 rename watchFile.js
+1 27/5/2016 11:14:26 start server ...
+1 27/5/2016 11:14:26 D:\vl\extJS\myNodeModules\watchFile.js
+1 27/5/2016 11:14:50 emit click ...
+1 27/5/2016 11:15:51 rename watchFile.js
+1 27/5/2016 11:15:51 rename watchFile.js
+1 27/5/2016 11:17:4 rename watchFile.js
+1 27/5/2016 11:17:4 rename watchFile.js
+1 27/5/2016 11:17:6 start server ...
+1 27/5/2016 11:17:33 emit click ...
+1 27/5/2016 12:16:33 [object Object]
+1 27/5/2016 12:16:33 [object Object]
+1 27/5/2016 12:16:42 [object Object]
+1 27/5/2016 12:16:42 [object Object]
+1 27/5/2016 12:18:8 ::1 63367
+1 27/5/2016 12:18:8 ::1 63368
+1 27/5/2016 12:20:9 ::1 63409
+1 27/5/2016 12:20:9 ::1 63410
+1 27/5/2016 12:53:13 socket data
+1 27/5/2016 12:53:13 socket close
+1 27/5/2016 12:53:13 socket data
+1 27/5/2016 12:53:13 socket close
+1 27/5/2016 12:53:21 socket data
+1 27/5/2016 12:53:21 socket close
+1 27/5/2016 12:53:21 socket data
+1 27/5/2016 12:53:21 socket close
+1 27/5/2016 12:53:25 socket data
+1 27/5/2016 12:53:25 socket close
+1 27/5/2016 12:53:25 socket data
+1 27/5/2016 12:53:25 socket close
+1 27/5/2016 12:58:41 socket data
+1 27/5/2016 12:58:41 socket close
+1 27/5/2016 12:58:41 socket data
+1 27/5/2016 12:58:41 socket close
+1 27/5/2016 12:59:53 socket data
+1 27/5/2016 12:59:53 socket close
+1 27/5/2016 12:59:53 socket data
+1 27/5/2016 12:59:53 socket close
+1 27/5/2016 12:59:54 socket data
+1 27/5/2016 12:59:54 socket close
+1 27/5/2016 12:59:54 socket data
+1 27/5/2016 12:59:55 socket close
+1 27/5/2016 12:59:55 socket data
+1 27/5/2016 12:59:55 socket close
+1 27/5/2016 12:59:55 socket data
+1 27/5/2016 12:59:55 socket close
+1 27/5/2016 12:59:56 socket data
+1 27/5/2016 12:59:56 socket close
+1 27/5/2016 12:59:56 socket data
+1 27/5/2016 12:59:56 socket close
+1 27/5/2016 16:51:48 ssl ok ...
+1 27/5/2016 16:51:49 ssl ok ...
+1 27/5/2016 16:52:11 ssl ok ...
+1 27/5/2016 16:52:11 ssl ok ...
+1 27/5/2016 16:52:15 ssl ok ...
+1 27/5/2016 16:52:15 ssl ok ...
+1 27/5/2016 16:52:36 ssl ok ...
+1 27/5/2016 16:52:36 ssl ok ...
+1 27/5/2016 17:1:39 ssl ok ...
+1 27/5/2016 17:1:39 ssl ok ...

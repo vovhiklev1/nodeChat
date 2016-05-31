@@ -1,0 +1,28 @@
+* {
+    outline: 1px solid red;
+}
+
+body{
+    min-height: 100%;
+    background: #515556;
+}
+
+.container{
+    max-width: 960px;
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+}
+
+header{
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+}
+

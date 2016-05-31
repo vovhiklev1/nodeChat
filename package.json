@@ -1,0 +1,33 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "nodescr",
+  "main": "argv.js",
+  "dependencies": {
+    "less": "^2.7.1"
+  },
+  "devDependencies": {
+    "async": "^1.5.2",
+    "beeper": "^1.1.0",
+    "body-parser": "^1.15.1",
+    "cheerio": "^0.20.0",
+    "consolidate": "^0.14.1",
+    "express": "^4.13.4",
+    "handlebars": "^4.0.5",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "minimist": "^1.2.0",
+    "moment": "^2.13.0",
+    "mysql": "^2.10.2",
+    "pem": "^1.8.3",
+    "pug": "^0.1.0",
+    "request": "^2.72.0",
+    "sugar": "^1.4.1",
+    "ws": "^1.1.0"
+  },
+  "scripts": {
+    "start": "node argv.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
